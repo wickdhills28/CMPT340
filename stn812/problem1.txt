@@ -1,0 +1,14 @@
+Steven Nguyen
+11213790
+stn812
+
+Problem 1:
+a) swap (x, y) = (y, x) : Integer -> Integer -> (Integer -> Integer)
+
+b) pair x y = (x, y) : Integer -> Integer -> (Integer -> Integer)
+
+c) double x = x*2 : Integer -> Integer
+
+d) twice f x = f (f (x)) : (Integer-> Integer) -> Integer -> (Integer -> (Integer->Integer))
+
+

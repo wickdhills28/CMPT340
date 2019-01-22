@@ -1,0 +1,10 @@
+Steven Nguyen
+11213790	
+stn812
+
+Problem 5 B:
+
+Show how the meaning of compose3 can be formalized in terms of a lambda expression.
+
+
+
